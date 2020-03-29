@@ -1,7 +1,11 @@
 # poc-gitflowMarcosPorto10
 Minha Descriçao
 
-
+```sh
+git add .
+git commit "texto commit"
+git push
+```
 
 **negrito**
 
